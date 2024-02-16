@@ -1,0 +1,2 @@
+# nextjsbuild
+practicing nextjs
